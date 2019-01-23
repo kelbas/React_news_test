@@ -2,4 +2,4 @@ import React from 'react'
 import {render} from 'react-dom'
 import App from './components/App'
 
-render(<App></App>, document.getElementById('body'))
+render(<App></App>, document.getElementById('test'))
